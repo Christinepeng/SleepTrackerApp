@@ -130,7 +130,7 @@ class SleepTrackerViewModel(
     val navigateToSleepDataQuality
         get() = _navigateToSleepDataQuality
 
-    fun onSleepNightClicked(id: Long) {
+    fun onSleepNightClicked(id: Long){
         _navigateToSleepDataQuality.value = id
     }
 
