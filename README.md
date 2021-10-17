@@ -1,4 +1,4 @@
-# Room - SleepQualityTracker app
+# SleepQualityTracker app
 ## SleepQualityTracker
 
 The SleepQualityTracker app is a demo app that helps you collect information about your sleep. 
